@@ -5,7 +5,7 @@ Simple enclosure design built from cheap foam board and 3D printed parts. Yeah i
 This is still a work in progress, the brackets work but could be improved. They printer in around
 30mins with a layer height of 0.3mm and a infil of 10%
 
-![Corner Bracket](https://github.com/chrisabird/printrbot_simple_metal_enclosure/raw/master/designe.png "Corner Bracket")
+![Corner Bracket](https://github.com/chrisabird/printrbot_simple_metal_enclosure/raw/master/design.png "Corner Bracket")
 
 # Materials
  1. 3 x 500mm x 400mm of 5mm Foam Board Sheet (Back, Left & Back)
